@@ -5,6 +5,7 @@
 
 본 프로젝트는 Tableau 내장 데이터셋인 Superstore 데이터를 활용하여, 호주 지역의 매출, 수익성, 상품 효율성을 분석하고 비즈니스 의사결정을 지원하는 대시보드를 구축하는 개별 프로젝트입니다.
 * **데이터셋:** Tableau Superstore Sales Data (호주 지역 필터링 기반).
+* **대시보드 링크:** [[Saels & Profit Overview in Austraila]](https://public.tableau.com/app/profile/hayoung.park7817/viz/Sales_Performance_Overview_Dashboard/SalesProfitOverviewinAustrailia)
 
 ### 2. 핵심 대시보드 성과 및 전략 제안
 
